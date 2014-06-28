@@ -1,0 +1,1 @@
+"%CD%\bin\"RunHiddenConsole "%CD%\start.bat"
